@@ -1,0 +1,14 @@
+config CUSTOM_MODULE
+	tristate "test custom module"
+	default m 
+	help 
+	we can us this to test in-tree module 
+
+ 
+
+
+
+
+
+
+ 
